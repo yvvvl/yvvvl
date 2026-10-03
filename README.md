@@ -1,68 +1,51 @@
+<div align="center">
+
 # ¡Hola! Soy Ignacio Silva 👋
 
-### Desarrollador de software en formación · Python · Aplicaciones web · Datos
+### Desarrollador de software en formación · Python · Web · Datos
 
-Soy Ignacio, estudiante de tercer año de **Ingeniería en Informática con mención en Ciencia de Datos en Duoc UC**. Me gusta tomar una idea, convertirla en un producto funcional y cuidar el proceso: código mantenible, pruebas, documentación y una experiencia que realmente sirva a quien lo use.
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Data-1F6FEB?style=for-the-badge&logo=pandas&logoColor=white" alt="Datos" />
 
-Me estoy preparando para mi primera oportunidad como **desarrollador junior**, trainee o part-time. Aunque todavía estoy estudiando, ya he construido aplicaciones publicadas, proyectos web full stack y pipelines de datos reproducibles.
+</div>
 
-## En qué me estoy enfocando
+## Sobre mí
+
+Soy estudiante de tercer año de **Ingeniería en Informática con mención en Ciencia de Datos en Duoc UC**. Me gusta transformar ideas en productos funcionales y cuidar cómo se construyen: código mantenible, pruebas, documentación y una experiencia útil para quien lo usa.
+
+Me estoy preparando para mi primera oportunidad como **desarrollador junior**, trainee o part-time. Ya he creado aplicaciones publicadas, proyectos web full stack y pipelines de datos reproducibles.
+
+## 🚀 En qué me estoy enfocando
 
 - Construir software con **Python** y aplicaciones de escritorio.
 - Profundizar en desarrollo web full stack con **React, Java, Spring Boot, REST APIs y MySQL**.
 - Aplicar análisis y visualización de datos con **Python, Pandas y Jupyter**.
 - Trabajar con pruebas automatizadas, documentación, control de versiones y entregas reproducibles.
 
-## Proyectos destacados
+## 🧩 Proyectos que construí
 
-### [WizZ Desktop](https://github.com/yvvvl/WizzController)
+| Proyecto | Qué hice | Tecnologías |
+| --- | --- | --- |
+| [**WizZ Desktop**](https://github.com/yvvvl/WizzController) | Construí una aplicación de escritorio para controlar luces WiZ por red local, sin depender de la nube. Incluye descubrimiento de dispositivos, rutinas, favoritos y soporte para Windows/Linux. | Python · Flet · UDP · Pytest · GitHub Actions |
+| [**Dulce Vida Web**](https://github.com/yvvvl/Dulce-Vida-Web) | Trabajé en una plataforma de gestión y venta de repostería, desde la tienda pública hasta el panel administrativo. | React · Spring Boot · JWT · MySQL · Vitest · JUnit |
+| [**Bank Marketing Analysis**](https://github.com/yvvvl/ADY1100-Bank-Analysis-EVA2) | Estructuré un flujo reproducible para preparar, validar, transformar y visualizar datos de campañas bancarias. | Python · Pandas · Jupyter · Visualización |
 
-Construí una aplicación de escritorio para controlar luces inteligentes WiZ directamente por la red local, sin depender de servicios en la nube.
+## 🛠️ Tecnologías
 
-- Python, Flet, protocolo UDP LAN y persistencia local.
-- Routines, favoritos, escenas, descubrimiento de dispositivos y soporte Windows/Linux.
-- Pruebas automatizadas, GitHub Actions, documentación técnica y releases publicados.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+</p>
 
-### [Dulce Vida Web](https://github.com/yvvvl/Dulce-Vida-Web)
+## 🎯 Mi objetivo
 
-Proyecto full stack para gestión y venta de repostería en el que trabajé desde la tienda pública hasta el panel administrativo.
-
-- React + Vite, Spring Boot, Spring Security, JWT y MySQL.
-- Catálogo, carrito de compra, checkout, panel administrativo y roles de usuario.
-- Pruebas con Vitest y JUnit.
-
-### [Bank Marketing Analysis](https://github.com/yvvvl/ADY1100-Bank-Analysis-EVA2)
-
-Para este proyecto estructuré un flujo reproducible de preparación y análisis de datos de campañas de marketing bancario.
-
-- Pipeline reproducible de limpieza, validación y transformación de datos.
-- Código modular en Python, notebooks de análisis y visualizaciones.
-- Documentación de decisiones técnicas y resultados exportables.
-
-## Tecnologías
-
-**Lenguajes y datos**
-
-`Python` · `Java` · `JavaScript` · `SQL` · `Pandas` · `NumPy` · `Jupyter`
-
-**Desarrollo de software**
-
-`React` · `Vite` · `Spring Boot` · `Spring Security` · `REST APIs` · `MySQL` · `JWT`
-
-**Prácticas y herramientas**
-
-`Git` · `GitHub Actions` · `Pytest` · `JUnit` · `Vitest` · `Docker (en aprendizaje)`
-
-## Mi objetivo
-
-Quiero iniciar mi carrera profesional en un equipo donde pueda aprender de buenas prácticas y aportar construyendo productos que las personas realmente usen. Me atraen especialmente las oportunidades de desarrollo de software, backend, automatización y productos que conecten aplicaciones con datos. Busco aprender de gente con experiencia, colaborar bien y asumir responsabilidad real sobre lo que construyo.
-
-## Contacto
-
-- GitHub: [@yvvvl](https://github.com/yvvvl)
-- LinkedIn: **agregaré mi enlace de LinkedIn aquí**
-- Email: **agregaré mi correo profesional aquí**
-
----
-
-> *Busco una primera oportunidad para seguir aprendiendo, colaborar en equipo y transformar ideas en software útil.*
+Quiero comenzar mi carrera en un equipo donde pueda aprender de buenas prácticas y aportar construyendo productos que las personas realmente usen. Me interesan especialmente el desarrollo de software, backend, automatización y los productos que conectan aplicaciones con datos.
