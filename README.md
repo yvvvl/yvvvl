@@ -15,7 +15,7 @@
 
 Soy estudiante de tercer año de **Ingeniería en Informática con mención en Ciencia de Datos en Duoc UC**. Me gusta transformar ideas en productos funcionales y cuidar cómo se construyen: código mantenible, pruebas, documentación y una experiencia útil para quien lo usa.
 
-Me estoy preparando para mi primera oportunidad como **desarrollador junior**, trainee o part-time. Ya he creado aplicaciones publicadas, proyectos web full stack y pipelines de datos reproducibles.
+Estoy abierto a oportunidades junior, trainee o part-time donde pueda aportar en desarrollo de software, backend o datos. Ya he creado aplicaciones publicadas, proyectos web full stack y pipelines de datos reproducibles.
 
 ## 🚀 En qué me estoy enfocando
 
@@ -29,7 +29,7 @@ Me estoy preparando para mi primera oportunidad como **desarrollador junior**, t
 | Proyecto | Qué hice | Tecnologías |
 | --- | --- | --- |
 | [**WizZ Desktop**](https://github.com/yvvvl/WizzController) | Construí una aplicación de escritorio para controlar luces WiZ por red local, sin depender de la nube. Incluye descubrimiento de dispositivos, rutinas, favoritos y soporte para Windows/Linux. | Python · Flet · UDP · Pytest · GitHub Actions |
-| [**Dulce Vida Web**](https://github.com/yvvvl/Dulce-Vida-Web) | Trabajé en una plataforma de gestión y venta de repostería, desde la tienda pública hasta el panel administrativo. | React · Spring Boot · JWT · MySQL · Vitest · JUnit |
+| [**Dulce Vida Web**](https://github.com/yvvvl/Dulce-Vida-Web) | Desarrollé por mi cuenta una tienda full stack con catálogo, carrito, autenticación y panel de administración; recibí apoyo puntual de un amigo en un commit. | React · Spring Boot · JWT · MySQL · Vitest · JUnit |
 | [**Bank Marketing Analysis**](https://github.com/yvvvl/ADY1100-Bank-Analysis-EVA2) | Estructuré un flujo reproducible para preparar, validar, transformar y visualizar datos de campañas bancarias. | Python · Pandas · Jupyter · Visualización |
 
 ## 🛠️ Tecnologías
@@ -49,3 +49,9 @@ Me estoy preparando para mi primera oportunidad como **desarrollador junior**, t
 ## 🎯 Mi objetivo
 
 Quiero comenzar mi carrera en un equipo donde pueda aprender de buenas prácticas y aportar construyendo productos que las personas realmente usen. Me interesan especialmente el desarrollo de software, backend, automatización y los productos que conectan aplicaciones con datos.
+
+
+## 📬 Contacto
+
+- LinkedIn: [linkedin.com/in/ignsilva](https://www.linkedin.com/in/ignsilva/)
+- Correo: [contacto.ignsilva@gmail.com](mailto:contacto.ignsilva@gmail.com)
